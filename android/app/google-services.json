@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48936538757",
+    "project_id": "mstf-example",
+    "storage_bucket": "mstf-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48936538757:android:ec49eb90194e9ffc94cfec",
+        "android_client_info": {
+          "package_name": "com.example.auth_mstf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZgL8FSDHQosU6yMMN5k9kMJBiYS_uK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
